@@ -8,8 +8,8 @@ alignRight=0
 
 activePlugin=NowPlaying
 
-topTextWidth=201
-bottomTextWidth=147
+topTextWidth=514
+bottomTextWidth=105
 
 ; 0 = MUSIC, 2 = WEBNOWPLAYING
 MusicSwitch=0
